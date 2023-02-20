@@ -6,18 +6,23 @@
 - [📖 \[learn\_vet\_clinic\] ](#-learn_vet_clinic-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
-  - [🛠 Built With ](#-built-with--1)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [📝 License ](#-license-)
 
 
 # 📖 [learn_vet_clinic] <a name="about-project"></a>
 
-**learn vet clinic** is a project build to learn postgres.
+**learn vet clinic** is a project that contains list of queries to build a database of animals. The purpose is to learn postgres
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -30,12 +35,15 @@
   </ul>
 </details>
 
-## 🛠 Built With <a name="built-with"></a>
-- Postgress
-
 ### Key Features <a name="key-features"></a>
 
 - **Use SQL**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+[No Live Demo Link avaible]()
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -49,6 +57,58 @@ Example commands:
   cd my-folder
   git clone git@github.com:Trast00/learn_vet_clinic.git
 ```
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- AUTHORS -->
 
@@ -76,4 +136,8 @@ Feel free to check the [issues page](https://github.com/Trast00/learn_vet_clinic
 Give a ⭐️ if you like this project! It's help a lot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
 
