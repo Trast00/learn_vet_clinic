@@ -9,3 +9,5 @@ neutered boolean,
 weight_kg decimal,
 PRIMARY KEY (id)
 );
+
+ALTER TABLE animals ADD species varchar;
