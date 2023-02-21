@@ -1,6 +1,6 @@
 /* Database schema to keep the structure of entire database. */
 
-create table animalsTEST(   
+create table animals(   
 id int generated always as identity,
 name varchar NOT NULL,
 date_of_birth date NOT NULL,
@@ -10,4 +10,4 @@ weight_kg decimal,
 PRIMARY KEY (id)
 );
 
-ALTER TABLE animalsTEST ADD species varchar;
+ALTER TABLE animals ADD species varchar;
