@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[learn\_vet\_clinic\] ](#-learn_vet_clinic-)
+- [📖 learn\_vet\_clinic ](#-learn_vet_clinic-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -15,12 +15,13 @@
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
 
-# 📖 [learn_vet_clinic] <a name="about-project"></a>
+# 📖 learn_vet_clinic <a name="about-project"></a>
 
 **learn vet clinic** is a project that contains list of queries to build a database of animals. The purpose is to learn postgres
 
@@ -38,6 +39,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **Use SQL**
+- **Queris that filter elements**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,6 +122,12 @@ Example:
 - Twitter: [@dickoallassane](https://twitter.com/AllassaneDicko0/)
 - LinkedIn: [@dickoallassane](https://www.linkedin.com/in/allassane-dicko-744aaa224)
 
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add more table**
+- [ ] **Add more insertion**
+- [ ] **Add more filtered queries**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
