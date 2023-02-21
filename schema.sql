@@ -7,5 +7,6 @@ date_of_birth date NOT NULL,
 escape_attempts int,
 neutered boolean, 
 weight_kg decimal,
+species varchar,
 PRIMARY KEY (id)
 );
