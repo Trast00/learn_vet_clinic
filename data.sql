@@ -1,3 +1,5 @@
+/* */
+
 /* Populate database with sample data. */
 
 insert into animals 
@@ -15,3 +17,25 @@ values (DEFAULT, 'Blossom', '1998-10-13', 3, true, 17);
 insert into animals 
 values (DEFAULT, 'Ditto', '2022-05-14', 4, true, 22);
 
+
+/* Project part 3 */
+/* owner */
+insert into owners (DEFAULT, 'Sam Smith', 34)
+insert into owners (DEFAULT, 'Jennifer Orwell', 19)
+insert into owners (DEFAULT, 'Bob', 45)
+insert into owners (DEFAULT, 'Melody Pon', 77)
+insert into owners (DEFAULT, 'Dean Winchester', 14)
+insert into owners (DEFAULT, 'Jodie Whittaker', 38)
+
+/* species */
+insert into species (DEFAULT, 'Pokemon')
+insert into species (DEFAULT, 'Digimon')
+
+
+
+UPDATE animals SET species_id = 2 where name LIKE '%mon';
+UPDATE animals SET species_id = 1 where name != 'Digimon';
+
+UPDATE animals SET owner_id = 1 where name = 'Agumon';
+UPDATE animals SET owner_id = 2 where name = 'Gabumon' OR name = 'Pikachu';
+UPDATE animals SET owner_id = 1 where name = 'Agumon';
