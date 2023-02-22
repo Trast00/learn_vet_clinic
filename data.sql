@@ -50,3 +50,18 @@ UPDATE animals SET owner_id = 2 where name = 'Gabumon' OR name = 'Pikachu';
 UPDATE animals SET owner_id = 3 where name = 'Plantmon';
 UPDATE animals SET owner_id = 4 where name = 'Charmander' OR name = 'Squirtle' OR name = 'Blossom';
 UPDATE animals SET owner_id = 5 where name = 'Angemon' or name = 'Boarmon';
+
+/* Project part 4 */
+
+insert into vets values (DEFAULT, 'William Tatcher', 45, '2000-04-23');
+insert into vets values (DEFAULT, 'Maisy Smith', 26, '2019-01-17');
+insert into vets values (DEFAULT, 'Stephanie Mendez', 64, '1981-05-17');
+insert into vets values (DEFAULT, 'Jack Harkness', 38, '2008-06-08');
+
+insert into specializations values (1, 1);
+insert into specializations values (3, 1);
+insert into specializations values (3, 2);
+insert into specializations values (4, 2);
+
+
+
