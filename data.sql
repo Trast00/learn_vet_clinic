@@ -50,3 +50,38 @@ UPDATE animals SET owner_id = 2 where name = 'Gabumon' OR name = 'Pikachu';
 UPDATE animals SET owner_id = 3 where name = 'Plantmon';
 UPDATE animals SET owner_id = 4 where name = 'Charmander' OR name = 'Squirtle' OR name = 'Blossom';
 UPDATE animals SET owner_id = 5 where name = 'Angemon' or name = 'Boarmon';
+
+/* Project part 4 */
+
+insert into vets values (DEFAULT, 'William Tatcher', 45, '2000-04-23');
+insert into vets values (DEFAULT, 'Maisy Smith', 26, '2019-01-17');
+insert into vets values (DEFAULT, 'Stephanie Mendez', 64, '1981-05-17');
+insert into vets values (DEFAULT, 'Jack Harkness', 38, '2008-06-08');
+
+insert into specializations values (1, 1);
+insert into specializations values (3, 1);
+insert into specializations values (3, 2);
+insert into specializations values (4, 2);
+
+/* vet_id - animals_id, date */
+insert into visits values (1, 3, '2020-05-24');
+insert into visits values (1, 1, '2020-07-22');
+insert into visits values (2, 4, '2021-02-02');
+insert into visits values (3, 2, '2020-01-05');
+insert into visits values (3, 2, '2020-03-08');
+insert into visits values (3, 2, '2020-05-14');
+insert into visits values (4, 3, '2021-05-04');
+insert into visits values (5, 4, '2021-02-24');
+insert into visits values (6, 2, '2019-12-21');
+insert into visits values (6, 1, '2020-08-10');
+insert into visits values (6, 2, '2021-04-07');
+insert into visits values (7, 3, '2019-09-29');
+insert into visits values (8, 4, '2020-10-03'); 
+insert into visits values (8, 4, '2020-11-04');
+insert into visits values (9, 2, '2019-01-24');
+insert into visits values (9, 2, '2019-05-15');
+insert into visits values (9, 2, '2020-02-27');
+insert into visits values (9, 2, '2020-08-03');
+insert into visits values (10, 3, '2020-05-24');
+insert into visits values (10, 1, '2021-01-11');
+
