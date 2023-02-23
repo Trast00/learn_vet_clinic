@@ -76,7 +76,7 @@ insert into visits values (6, 2, '2019-12-21');
 insert into visits values (6, 1, '2020-08-10');
 insert into visits values (6, 2, '2021-04-07');
 insert into visits values (7, 3, '2019-09-29');
-insert into visits values (8, 4, '2020-10-03');
+insert into visits values (8, 4, '2020-10-03'); 
 insert into visits values (8, 4, '2020-11-04');
 insert into visits values (9, 2, '2019-01-24');
 insert into visits values (9, 2, '2019-05-15');
