@@ -122,6 +122,12 @@ Example:
 - Twitter: [@dickoallassane](https://twitter.com/AllassaneDicko0/)
 - LinkedIn: [@dickoallassane](https://www.linkedin.com/in/allassane-dicko-744aaa224)
 
+👤 **Christian Ani**
+
+- GitHub: [@iamchristianani](https://github.com/iamchristianani)
+- Twitter: [@kriznode](https://twitter.com/kriznode)
+- LinkedIn: [@anikriz](https://www.linkedin.com/in/anikriz/)
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
