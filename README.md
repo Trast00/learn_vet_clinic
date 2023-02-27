@@ -16,6 +16,7 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [� Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 
@@ -112,6 +113,10 @@ Feel free to check the [issues page](https://github.com/Trast00/learn_vet_clinic
 Give a ⭐️ if you like this project! It's help a lot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for providing the structure of the database.
 
 ## 📝 License <a name="license"></a>
 
