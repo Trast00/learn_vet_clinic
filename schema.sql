@@ -68,3 +68,5 @@ insert into owners (full_name, email) select 'Owner ' || generate_series(1,25000
 
 /* increase speed */
 CREATE INDEX animal_id_index ON visits(animal_id ASC);
+DROP INDEX animal_id_index;
+CREATE INDEX vet_id_index ON visits(animal_id, vet_id, date_of_visit ASC);
