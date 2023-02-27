@@ -12,12 +12,11 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [� Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 
@@ -60,57 +59,21 @@ Example commands:
   git clone git@github.com:Trast00/learn_vet_clinic.git
 ```
 
+
+
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+- To use this project make sure to install [postgress](https://www.postgresql.org/)
+- Create a new database with SQL terminal, pgADdmin, or you terminal ([how to this here](https://www.postgresql.org/docs/current/sql-createdatabase.html))
+- Then use command in [schema.sql]() to create the database structure (tables and columns)
+- use data.sql to populate data into you database
+- use queries.sql to get some information about entries in database
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+You can you own code, create your own tables, columns, and queries using this template
 
 <!-- AUTHORS -->
 
@@ -121,6 +84,12 @@ Example:
 - GitHub: [@trast00](https://github.com/Trast00)
 - Twitter: [@dickoallassane](https://twitter.com/AllassaneDicko0/)
 - LinkedIn: [@dickoallassane](https://www.linkedin.com/in/allassane-dicko-744aaa224)
+
+👤 **Christian Ani**
+
+- GitHub: [@iamchristianani](https://github.com/iamchristianani)
+- Twitter: [@kriznode](https://twitter.com/kriznode)
+- LinkedIn: [@anikriz](https://www.linkedin.com/in/anikriz/)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -144,6 +113,10 @@ Feel free to check the [issues page](https://github.com/Trast00/learn_vet_clinic
 Give a ⭐️ if you like this project! It's help a lot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse for providing the structure of the database.
 
 ## 📝 License <a name="license"></a>
 

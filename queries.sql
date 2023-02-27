@@ -153,3 +153,9 @@ left join animals on visits.animal_id = animals.id
 left join species on animals.species_id = species.id
 where vets.name = 'Maisy Smith'
 group by vets.name, species.id;
+
+
+/* Project part 5: increase speed  */
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animal_id = 4;
+EXPLAIN ANALYZE SELECT * FROM visits where vet_id = 2;
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
