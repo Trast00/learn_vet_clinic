@@ -45,7 +45,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 [Live Demo link of the database diagram](https://drawsql.app/teams/allassane-dicko/diagrams/first-project)
-![image](https://user-images.githubusercontent.com/74411135/221829442-78fb6dab-1836-46de-87dc-9ce97bf244af.png)
+![image](https://user-images.githubusercontent.com/74411135/221831260-cbdd4167-a690-49fb-a23b-672a870b4154.png)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
