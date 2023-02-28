@@ -47,3 +47,5 @@ CREATE TABLE medical_histories_treaments (
 
 CREATE INDEX patient_id_index ON medical_histories(patient_id ASC);
 CREATE INDEX medical_history_id_index ON invoices(medical_history_id ASC);
+CREATE INDEX invoice_treatment_index ON invoice_items(invoice_id ASC, treatment_id ASC);
+CREATE INDEX medical_histories_treaments_index ON medical_histories_treaments(medical_history_id ASC, treatment_id ASC);
